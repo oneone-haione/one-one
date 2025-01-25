@@ -1,0 +1,7 @@
+echo "# one-one" >> README.md 
+git init 
+git add README.md 
+git commit -m "Once cam kết đầu tiên" 
+git nhánh -M main 
+git remote add Origin https://github.com/oneone-haione /one-one.git
+ git push -u nguồn gốc chính
